@@ -1,4 +1,4 @@
 # turnbasedrobloxrpgprototype
 From youtube, I see?
 
-To open this up, download Roblox Studio if you don't already have it. Open this file, and everything should pop up.
+To open this up, download Roblox Studio if you don't already have it. Open the .rbxl file here by downloading it, and everything should pop up.
